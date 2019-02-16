@@ -7,3 +7,5 @@ masterブランチのprotectテスト
 
 再度protectedテスト
 
+ローカルから更新テスト
+
